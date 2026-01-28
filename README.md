@@ -1,7 +1,7 @@
 Для запуска через docker:
 
     - docker build -t task .
-    - docker run -p 3005:3005 test
+    - docker run -p 3005:3005 task
 
 Для запуска проекта через npm:
 
