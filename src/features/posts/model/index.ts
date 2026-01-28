@@ -1,0 +1,1 @@
+export { usePostsSearch } from './composables';
